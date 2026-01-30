@@ -1,9 +1,9 @@
 --// Initializes Server-Sided Modules
 
 --Roblox Services
-local ServerScriptService = game:GetService("ServerScriptService")
+local serverScriptService = game:GetService("ServerScriptService")
 
-for _, module in pairs(ServerScriptService:GetDescendants()) do
+for _, module in pairs(serverScriptService:GetDescendants()) do
 	if module:IsA("ModuleScript") then
 		require(module)
 	end
