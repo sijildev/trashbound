@@ -1,11 +1,11 @@
 <!--
 FILE HIERARCHY
 
-REPLICATEDSTORAGE
-  SHARED
-    SERVICES
+ReplicatedStorage
+  Shared
+    Services
       InputClient
-    MODULES
+    Modules
       Keybinds
 
 -->
