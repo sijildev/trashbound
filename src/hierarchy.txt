@@ -3,9 +3,18 @@ FILE HIERARCHY
 
 ReplicatedStorage
   Shared
+    Remotes
+      Action (RE)
     Services
-      InputClient
+      InputClient.lua
     Modules
-      Keybinds
+      Keybinds.lua
+ServerScriptService
+  Services
+    CombatServer.lua
+  Server.lua
+StarterPlayer
+  StarterPlayerScripts
+    Client.lua
 
 -->
