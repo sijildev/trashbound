@@ -4,8 +4,8 @@ FILE HIERARCHY
 REPLICATEDSTORAGE
   SHARED
     SERVICES
-      INPUTCLIENT
+      InputClient
     MODULES
-      KEYBINDS
+      Keybinds
 
 -->
